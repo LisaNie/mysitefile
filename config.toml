@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://lisanie.github.io/"
 languageCode = "zh-cn"
 title = "Hello"
 theme = "hugo-uno"
